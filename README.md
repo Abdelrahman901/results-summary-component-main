@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: ([https://your-live-site-url.com](https://abdelrahman901.github.io/results-summary-component-main/))
+- Live Site URL: ([https://your-live-site-url.com](https://abdelrahman901.github.io/results-summary-component-main/)
 
 ## process
 
@@ -46,4 +46,4 @@ Users should be able to:
 ## Author
 
 
-- Frontend Mentor - [@Abdelrahman901]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/Abdelrahman901)https://www.frontendmentor.io/profile/Abdelrahman901)
+- Frontend Mentor - [@Abdelrahman901](https://www.frontendmentor.io/profile/Abdelrahman901)
